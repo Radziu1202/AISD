@@ -1,0 +1,3 @@
+C:/Users/Uzytkownik/Desktop/Algorytmy/SORTO/cmake-build-debug/CMakeFiles/SORTO.dir
+C:/Users/Uzytkownik/Desktop/Algorytmy/SORTO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Uzytkownik/Desktop/Algorytmy/SORTO/cmake-build-debug/CMakeFiles/rebuild_cache.dir

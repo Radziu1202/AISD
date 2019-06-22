@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Uzytkownik/Desktop/Algorytmy/SORTO/main.cpp
+stdlib.h
+C:/Users/Uzytkownik/Desktop/Algorytmy/SORTO/stdlib.h
+time.h
+C:/Users/Uzytkownik/Desktop/Algorytmy/SORTO/time.h
+Windows.h
+-
+math.h
+C:/Users/Uzytkownik/Desktop/Algorytmy/SORTO/math.h
+iostream
+-
+fstream
+-
+stdio.h
+-
+random
+-
+string
+-
+
