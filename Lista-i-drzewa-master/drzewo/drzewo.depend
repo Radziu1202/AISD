@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553629897 source:c:\users\uzytkownik\desktop\drzewo\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	<fstream>
+	<time.h>
+	<random>
+

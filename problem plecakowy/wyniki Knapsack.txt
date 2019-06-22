@@ -1,0 +1,282 @@
+dynamic: 0.00330835	greedy:	0.000210602	wyniki dynamic:	5473.47	wyniki greedy:	5464.731000
+dynamic: 0.0140355	greedy:	0.000886062	wyniki dynamic:	10530.9	wyniki greedy:	10529.44000
+dynamic: 0.0229951	greedy:	0.00155997	wyniki dynamic:	13911.7	wyniki greedy:	13911.7000
+dynamic: 0.032241	greedy:	0.00232042	wyniki dynamic:	15888.4	wyniki greedy:	15888.10000
+dynamic: 0.0417862	greedy:	0.00308921	wyniki dynamic:	17756.3	wyniki greedy:	17756.113000
+dynamic: 0.0512085	greedy:	0.00389779	wyniki dynamic:	19622.1	wyniki greedy:	19621.716000
+dynamic: 0.0607098	greedy:	0.00474889	wyniki dynamic:	20849.3	wyniki greedy:	20849.319000
+dynamic: 0.0701796	greedy:	0.00553388	wyniki dynamic:	22390.7	wyniki greedy:	22390.722000
+dynamic: 0.0796163	greedy:	0.00640739	wyniki dynamic:	23524	wyniki greedy:	23523.925000
+dynamic: 0.08902	greedy:	0.0072782	wyniki dynamic:	24497.8	wyniki greedy:	24497.628000
+dynamic: 0.0984426	greedy:	0.00816548	wyniki dynamic:	25441.8	wyniki greedy:	25441.731000
+dynamic: 0.107603	greedy:	0.0090226	wyniki dynamic:	26050.9	wyniki greedy:	26050.834000
+dynamic: 0.117729	greedy:	0.00980251	wyniki dynamic:	27023.9	wyniki greedy:	27023.837000
+dynamic: 0.126519	greedy:	0.0109633	wyniki dynamic:	27844.3	wyniki greedy:	27844.240000
+dynamic: 0.135839	greedy:	0.0116793	wyniki dynamic:	28538.9	wyniki greedy:	28538.943000
+dynamic: 0.145213	greedy:	0.0125571	wyniki dynamic:	29230.2	wyniki greedy:	29230.146000
+dynamic: 0.154681	greedy:	0.0136037	wyniki dynamic:	30160.2	wyniki greedy:	30160.249000
+dynamic: 0.164199	greedy:	0.0147397	wyniki dynamic:	30724.3	wyniki greedy:	30724.352000
+dynamic: 0.0151517	greedy:	0.000636965	wyniki dynamic:	43577.3wyniki greedy:	43530.33000
+dynamic: 0.0744659	greedy:	0.00064694	wyniki dynamic:	88419.5wyniki greedy:	88375.33000
+dynamic: 0.134022	greedy:	0.000624639	wyniki dynamic:	118857wyniki greedy:	1188153000
+dynamic: 0.194514	greedy:	0.00067307	wyniki dynamic:	139141wyniki greedy:	1391203000
+dynamic: 0.253408	greedy:	0.000627863	wyniki dynamic:	159909wyniki greedy:	1598813000
+dynamic: 0.313195	greedy:	0.000624298	wyniki dynamic:	180132wyniki greedy:	1801023000
+dynamic: 0.372667	greedy:	0.000628925	wyniki dynamic:	196064wyniki greedy:	1960193000
+dynamic: 0.432498	greedy:	0.000622895	wyniki dynamic:	207994wyniki greedy:	2079573000
+dynamic: 0.491677	greedy:	0.000647812	wyniki dynamic:	222737wyniki greedy:	2226943000
+dynamic: 0.551858	greedy:	0.000641364	wyniki dynamic:	236560wyniki greedy:	2365333000
+dynamic: 0.61122	greedy:	0.00062316	wyniki dynamic:	244537wyniki greedy:	2445003000
+dynamic: 0.671323	greedy:	0.000619102	wyniki dynamic:	258654wyniki greedy:	2586303000
+dynamic: 0.731541	greedy:	0.000623274	wyniki dynamic:	272564wyniki greedy:	2725393000
+dynamic: 0.790278	greedy:	0.000633021	wyniki dynamic:	280484wyniki greedy:	2804503000
+dynamic: 0.849411	greedy:	0.000618836	wyniki dynamic:	292649wyniki greedy:	2926323000
+dynamic: 0.909438	greedy:	0.000635448	wyniki dynamic:	301671wyniki greedy:	3016483000
+dynamic: 0.970804	greedy:	0.000617737	wyniki dynamic:	310229wyniki greedy:	3102063000
+dynamic: 1.02938	greedy:	0.000622857	wyniki dynamic:	318264wyniki greedy:	3182403000
+
+
+ 
+
+wyniki dynamic:	257.467wyniki greedy:	257.467	10
+wyniki dynamic:	766.133wyniki greedy:	766.133	30
+wyniki dynamic:	1277.47wyniki greedy:	1277.47	50
+wyniki dynamic:	1748.93wyniki greedy:	1748.93	70
+wyniki dynamic:	2299.53wyniki greedy:	2299.53	90
+wyniki dynamic:	2833.4wyniki greedy:	2832.73	110
+wyniki dynamic:	3100.73wyniki greedy:	3100.07	130
+wyniki dynamic:	3433.87wyniki greedy:	3432.53	150
+wyniki dynamic:	3758.8wyniki greedy:	3756.13	170
+wyniki dynamic:	3986.07wyniki greedy:	3984.53	190
+wyniki dynamic:	4205.6wyniki greedy:	4203.73	210
+wyniki dynamic:	4405.2wyniki greedy:	4403.67	230
+wyniki dynamic:	4511.33wyniki greedy:	4509.27	250
+wyniki dynamic:	4718.8wyniki greedy:	4716.13	270
+wyniki dynamic:	4866.47wyniki greedy:	4864.87	290
+wyniki dynamic:	1239.87wyniki greedy:	1239.87	10
+wyniki dynamic:	3403.73wyniki greedy:	3396.27	30
+wyniki dynamic:	4327.4wyniki greedy:	4315	50
+wyniki dynamic:	5535.93wyniki greedy:	5515.33	70
+wyniki dynamic:	6047.13wyniki greedy:	6032.67	90
+wyniki dynamic:	6763.6wyniki greedy:	6746.2	110
+wyniki dynamic:	7334.13wyniki greedy:	7320	130
+wyniki dynamic:	7694.53wyniki greedy:	7678.07	150
+wyniki dynamic:	8026.4wyniki greedy:	8016.07	170
+wyniki dynamic:	9117.8wyniki greedy:	9101.73	190
+wyniki dynamic:	9111wyniki greedy:	9101.8	210
+wyniki dynamic:	9746.07wyniki greedy:	9731.07	230
+wyniki dynamic:	10491.1wyniki greedy:	10478.8	250
+wyniki dynamic:	10507.1wyniki greedy:	10493.4	270
+wyniki dynamic:	11049.2wyniki greedy:	11038.3	290
+wyniki dynamic:	1354wyniki greedy:	1354	10
+wyniki dynamic:	4582.4wyniki greedy:	4566.53	50
+wyniki dynamic:	6303.87wyniki greedy:	6291.93	90
+wyniki dynamic:	7358.6wyniki greedy:	7342.53	130
+wyniki dynamic:	8599.6wyniki greedy:	8583.2	170
+wyniki dynamic:	9247.47wyniki greedy:	9236.87	210
+wyniki dynamic:	9951.87wyniki greedy:	9935.93	250
+wyniki dynamic:	11086.4wyniki greedy:	11076.4	290
+wyniki dynamic:	11402.1wyniki greedy:	11385.5	330
+wyniki dynamic:	12389.3wyniki greedy:	12377.9	370
+wyniki dynamic:	13147.1wyniki greedy:	13132.3	410
+wyniki dynamic:	13896.2wyniki greedy:	13888	450
+wyniki dynamic:	14010.1wyniki greedy:	13998	490
+wyniki dynamic:	14934.1wyniki greedy:	14923.5	530
+wyniki dynamic:	15178.9wyniki greedy:	15169	570
+wyniki dynamic:	15886.6wyniki greedy:	15874.7	610
+wyniki dynamic:	16173.1wyniki greedy:	16161.6	650
+wyniki dynamic:	16604wyniki greedy:	16593.7	690
+0.00158947	5
+0.00898684	6
+0.0158144	7
+0.0210054	8
+0.0284721	9
+0.0374507	10
+0.0480403	11
+0.0635395	12
+0.0915809	13
+0.143185	14
+0.244339	15
+0.449703	16
+0.868173	17
+1.72868	18
+3.50084	19
+7.15323	20
+14.6704	21
+30.135	22
+61.8975	23
+127.072	24
+
+0.00565422	0.000340119	wyniki dynamic:	5710.87wyniki greedy:	5707.4	1000
+0.025344	0.00173439	wyniki dynamic:	10516.4wyniki greedy:	10514.7	4000
+0.0486942	0.00338731	wyniki dynamic:	13488.6wyniki greedy:	13487.9	7000
+0.0542498	0.00404468	wyniki dynamic:	15905.2wyniki greedy:	15905.1	10000
+0.0806403	0.00575472	wyniki dynamic:	17542.1wyniki greedy:	17542.1	13000
+0.0888261	0.00659425	wyniki dynamic:	19450.4wyniki greedy:	19449.9	16000
+0.107325	0.00792541	wyniki dynamic:	21040.1wyniki greedy:	21040	19000
+0.127242	0.00919331	wyniki dynamic:	22319.5wyniki greedy:	22319.5	22000
+0.1276	0.00903645	wyniki dynamic:	23364.9wyniki greedy:	23364.7	25000
+0.140186	0.0106175	wyniki dynamic:	24421.3wyniki greedy:	24421.1	28000
+0.154308	0.0128524	wyniki dynamic:	25032.8wyniki greedy:	25032.4	31000
+0.158714	0.0136469	wyniki dynamic:	26221.1wyniki greedy:	26221.1	34000
+0.172543	0.0176024	wyniki dynamic:	27389.9wyniki greedy:	27389.9	37000
+0.190198	0.0196909	wyniki dynamic:	28041.5wyniki greedy:	28041.5	40000
+0.203796	0.0209952	wyniki dynamic:	28417.9wyniki greedy:	28417.8	43000
+0.000454693	0.000286151	wyniki dynamic:	4276.6wyniki greedy:	4250.87	1000
+0.00373763	0.00296929	wyniki dynamic:	8305.27wyniki greedy:	8294.47	4000
+0.00596718	0.00497625	wyniki dynamic:	10393.4wyniki greedy:	10384.7	7000
+0.00967117	0.0088112	wyniki dynamic:	12097.7wyniki greedy:	12088.1	10000
+0.0133119	0.012511	wyniki dynamic:	13860.5wyniki greedy:	13857.7	13000
+0.0141126	0.0135245	wyniki dynamic:	14964.8wyniki greedy:	14964.1	16000
+0.0140086	0.0137363	wyniki dynamic:	16071.8wyniki greedy:	16070.1	19000
+0.0198009	0.019459	wyniki dynamic:	16698.5wyniki greedy:	16698	22000
+0.0209106	0.0211462	wyniki dynamic:	17901.8wyniki greedy:	17901.7	25000
+0.0203302	0.0203665	wyniki dynamic:	18295.7wyniki greedy:	18292.4	28000
+0.0212527	0.0217102	wyniki dynamic:	18984.3wyniki greedy:	18983.1	31000
+0.0223787	0.0237449	wyniki dynamic:	19338.5wyniki greedy:	19336	34000
+0.0240959	0.0249245	wyniki dynamic:	20518.7wyniki greedy:	20517.9	37000
+0.0266577	0.0283968	wyniki dynamic:	20458.5wyniki greedy:	20457.9	40000
+0.0272491	0.0290154	wyniki dynamic:	21122.1wyniki greedy:	21121.7	43000
+0.000275873	0.000194256	wyniki dynamic:	4233.4wyniki greedy:	4210.6	1000
+0.0012621	0.00120054	wyniki dynamic:	8235.8wyniki greedy:	8219.07	4000
+0.00193357	0.00160794	wyniki dynamic:	10585.4wyniki greedy:	10578.9	7000
+0.00326219	0.00273108	wyniki dynamic:	12638.1wyniki greedy:	12634.7	10000
+0.00360747	0.00330979	wyniki dynamic:	13894.4wyniki greedy:	13888.5	13000
+0.00473778	0.00439409	wyniki dynamic:	15181.9wyniki greedy:	15179	16000
+0.00579689	0.0051853	wyniki dynamic:	15545.8wyniki greedy:	15544.9	19000
+0.00740195	0.00616754	wyniki dynamic:	16696.5wyniki greedy:	16694.5	22000
+0.00750705	0.00696539	wyniki dynamic:	18002.4wyniki greedy:	18001.6	25000
+0.00936913	0.00790178	wyniki dynamic:	18726.7wyniki greedy:	18725.4	28000
+0.00932749	0.00892017	wyniki dynamic:	19081.3wyniki greedy:	19078.1	31000
+0.00976394	0.0104042	wyniki dynamic:	19404.1wyniki greedy:	19403.7	34000
+0.0111174	0.0108808	wyniki dynamic:	19750.2wyniki greedy:	19749.1	37000
+0.0113888	0.0118339	wyniki dynamic:	20602.1wyniki greedy:	20602	40000
+0.0122664	0.0129858	wyniki dynamic:	20957wyniki greedy:	20956	43000
+0.00360664	0.000206241	wyniki dynamic:	5398.2wyniki greedy:	5394.53	1000
+0.0136961	0.000868199	wyniki dynamic:	10585.3wyniki greedy:	10583.9	4000
+0.0232547	0.0016585	wyniki dynamic:	13791.7wyniki greedy:	13790.4	7000
+0.0322067	0.002342	wyniki dynamic:	15980wyniki greedy:	15979.5	10000
+0.0419597	0.00309593	wyniki dynamic:	17870.2wyniki greedy:	17869.8	13000
+0.0513217	0.00393481	wyniki dynamic:	19458.4wyniki greedy:	19458.2	16000
+0.0652175	0.00491159	wyniki dynamic:	21022.7wyniki greedy:	21022.7	19000
+0.0701456	0.00559748	wyniki dynamic:	22348.8wyniki greedy:	22348.7	22000
+0.0795559	0.00644948	wyniki dynamic:	23307.4wyniki greedy:	23307.3	25000
+0.0889675	0.00730558	wyniki dynamic:	24078.7wyniki greedy:	24078.7	28000
+0.098358	0.00819055	wyniki dynamic:	25324.5wyniki greedy:	25324.5	31000
+0.107697	0.00898373	wyniki dynamic:	26409.5wyniki greedy:	26409.5	34000
+0.117323	0.0102713	wyniki dynamic:	27084.4wyniki greedy:	27084.4	37000
+0.126645	0.0108047	wyniki dynamic:	27893.1wyniki greedy:	27893.1	40000
+0.135948	0.0119613	wyniki dynamic:	28369.5wyniki greedy:	28369.5	43000
+
+0.00102244	0.000251942	wyniki dynamic:	8955.4wyniki greedy:	8916.6	1000
+0.00333338	0.000932597	wyniki dynamic:	19023wyniki greedy:	18990	4000
+0.00712274	0.00187028	wyniki dynamic:	22983.4wyniki greedy:	22939.7	7000
+0.00848849	0.00262633	wyniki dynamic:	27411.7wyniki greedy:	27398.3	10000
+0.00996578	0.00341303	wyniki dynamic:	30702.9wyniki greedy:	30694.7	13000
+0.0128306	0.00419456	wyniki dynamic:	34499.3wyniki greedy:	34481.4	16000
+0.0161331	0.00503136	wyniki dynamic:	38192.1wyniki greedy:	38176.5	19000
+0.0187098	0.0059109	wyniki dynamic:	39463wyniki greedy:	39445.9	22000
+0.0191111	0.0071202	wyniki dynamic:	42828.5wyniki greedy:	42823.9	25000
+0.0203539	0.00770851	wyniki dynamic:	43364.5wyniki greedy:	43354.3	28000
+0.0228823	0.00903827	wyniki dynamic:	47370.5wyniki greedy:	47367.3	31000
+0.0249528	0.00985242	wyniki dynamic:	48022.2wyniki greedy:	48007	34000
+0.0270025	0.0105858	wyniki dynamic:	49671.9wyniki greedy:	49666.6	37000
+0.028832	0.0115506	wyniki dynamic:	50510.3wyniki greedy:	50506.5	40000
+0.030794	0.012989	wyniki dynamic:	54026.7wyniki greedy:	54021.6	43000
+0.00102438	0.000298894	wyniki dynamic:	15547.6wyniki greedy:	15468.7	1000
+0.00291176	0.000953381	wyniki dynamic:	32170wyniki greedy:	32060.4	4000
+0.00458091	0.00168262	wyniki dynamic:	41490.9wyniki greedy:	41397.2	7000
+0.00667359	0.00264723	wyniki dynamic:	49265.5wyniki greedy:	49212.1	10000
+0.00933257	0.00338375	wyniki dynamic:	54937wyniki greedy:	54868.3	13000
+0.0107617	0.00435264	wyniki dynamic:	59877.3wyniki greedy:	59788.9	16000
+0.0139767	0.00512105	wyniki dynamic:	64936.2wyniki greedy:	64820.4	19000
+0.0172235	0.00593456	wyniki dynamic:	73340.2wyniki greedy:	73238.4	22000
+0.0181395	0.00697517	wyniki dynamic:	77385.1wyniki greedy:	77317.2	25000
+0.0192823	0.00793728	wyniki dynamic:	80050.5wyniki greedy:	79970.4	28000
+0.0215124	0.00866432	wyniki dynamic:	84470.2wyniki greedy:	84389.9	31000
+0.0221579	0.00974938	wyniki dynamic:	86248.1wyniki greedy:	86158.7	34000
+0.0246648	0.0106297	wyniki dynamic:	89538.9wyniki greedy:	89514.6	37000
+0.025711	0.0117525	wyniki dynamic:	93170.8wyniki greedy:	93102.9	40000
+0.0277314	0.0129814	wyniki dynamic:	94290.3wyniki greedy:	94234.8	43000
+0.000323925	0.000187581	wyniki dynamic:	11701.4wyniki greedy:	11504.1	1000
+0.00185018	0.00121712	wyniki dynamic:	21342.9wyniki greedy:	21067.7	4000
+0.00259637	0.00181047	wyniki dynamic:	28606.1wyniki greedy:	28501.5	7000
+0.00370797	0.0025936	wyniki dynamic:	35341.6wyniki greedy:	35238.7	10000
+0.00501441	0.00353613	wyniki dynamic:	37211.8wyniki greedy:	37120.5	13000
+0.00514559	0.00453825	wyniki dynamic:	45181.5wyniki greedy:	45111	16000
+0.00658731	0.00554848	wyniki dynamic:	44439.3wyniki greedy:	44396.5	19000
+0.00793697	0.00612268	wyniki dynamic:	46919.5wyniki greedy:	46821.7	22000
+0.00957765	0.00716613	wyniki dynamic:	53199.3wyniki greedy:	53159.8	25000
+0.010609	0.00795541	wyniki dynamic:	54718.1wyniki greedy:	54636.1	28000
+0.0117994	0.00882262	wyniki dynamic:	57718.8wyniki greedy:	57622.9	31000
+0.0126584	0.00988572	wyniki dynamic:	59001.5wyniki greedy:	58963.4	34000
+0.014004	0.0107148	wyniki dynamic:	58708.2wyniki greedy:	58690.9	37000
+0.0136114	0.0117014	wyniki dynamic:	61621.1wyniki greedy:	61574.1	40000
+0.0147712	0.0127843	wyniki dynamic:	68362.5wyniki greedy:	68306.5	43000
+0.000666813	0.00026404	wyniki dynamic:	15964wyniki greedy:	15646.9	1000
+0.00228811	0.00100242	wyniki dynamic:	33794.9wyniki greedy:	33523.6	4000
+0.00352111	0.00170591	wyniki dynamic:	43926.1wyniki greedy:	43675.1	7000
+0.005378	0.00269213	wyniki dynamic:	51092.9wyniki greedy:	50960.1	10000
+0.00662849	0.00347757	wyniki dynamic:	58640.4wyniki greedy:	58405	13000
+0.00882656	0.00450248	wyniki dynamic:	64540.9wyniki greedy:	64434.8	16000
+0.0105268	0.00521375	wyniki dynamic:	69850.6wyniki greedy:	69723.4	19000
+0.0128318	0.00613212	wyniki dynamic:	77627.3wyniki greedy:	77548.8	22000
+0.0131096	0.00694692	wyniki dynamic:	78564.2wyniki greedy:	78498.2	25000
+0.0142926	0.00800141	wyniki dynamic:	80296.3wyniki greedy:	80178.9	28000
+0.0154483	0.00889062	wyniki dynamic:	85693.7wyniki greedy:	85550.7	31000
+0.0167266	0.00991303	wyniki dynamic:	91002.7wyniki greedy:	90899.7	34000
+0.0179513	0.0106563	wyniki dynamic:	96545.1wyniki greedy:	96301.1	37000
+0.01939	0.0116313	wyniki dynamic:	99038.4wyniki greedy:	98907.6	40000
+0.0205322	0.012608	wyniki dynamic:	104183wyniki greedy:	103978	43000
+0.00064072	0.000187316	wyniki dynamic:	6878.13wyniki greedy:	6856.07	1000
+0.00604652	0.00233764	wyniki dynamic:	19091.3wyniki greedy:	19068.8	9000
+0.0105379	0.00447434	wyniki dynamic:	24943.2wyniki greedy:	24928.1	17000
+0.0148809	0.00687918	wyniki dynamic:	28560.7wyniki greedy:	28549.1	25000
+0.0187166	0.00935142	wyniki dynamic:	33473.1wyniki greedy:	33471.4	33000
+0.0222007	0.0120007	wyniki dynamic:	35719.4wyniki greedy:	35718.5	41000
+0.0265674	0.0153168	wyniki dynamic:	38305wyniki greedy:	38303.5	49000
+0.0303992	0.0172508	wyniki dynamic:	40467.1wyniki greedy:	40466.5	57000
+0.03484	0.0201905	wyniki dynamic:	43101.2wyniki greedy:	43099.9	65000
+0.0387874	0.0231945	wyniki dynamic:	44884.6wyniki greedy:	44884.1	73000
+0.0430604	0.0263691	wyniki dynamic:	45964.2wyniki greedy:	45962.8	81000
+0.0474174	0.0292216	wyniki dynamic:	47490.9wyniki greedy:	47490.4	89000
+0.0515019	0.0318005	wyniki dynamic:	49123.6wyniki greedy:	49123.1	97000
+0.000285203	0.000191033	wyniki dynamic:	4868.53wyniki greedy:	4818.53	1000
+0.00270715	0.00247235	wyniki dynamic:	12852.1wyniki greedy:	12844.9	9000
+0.00629805	0.00511332	wyniki dynamic:	17582.9wyniki greedy:	17572.1	17000
+0.00698196	0.00693634	wyniki dynamic:	20258.7wyniki greedy:	20251.9	25000
+0.00926408	0.00961258	wyniki dynamic:	22216.5wyniki greedy:	22216	33000
+0.011758	0.0121567	wyniki dynamic:	24438.2wyniki greedy:	24437.5	41000
+0.0134687	0.0148645	wyniki dynamic:	26136.5wyniki greedy:	26136.5	49000
+0.0155228	0.0178535	wyniki dynamic:	26711.4wyniki greedy:	26710.1	57000
+0.0177086	0.0209627	wyniki dynamic:	28518.7wyniki greedy:	28518.1	65000
+0.0196868	0.0239926	wyniki dynamic:	29093.5wyniki greedy:	29093	73000
+0.0219936	0.0265994	wyniki dynamic:	29421.5wyniki greedy:	29421.5	81000
+0.0241215	0.029996	wyniki dynamic:	31160.5wyniki greedy:	31160.5	89000
+0.026351	0.0326551	wyniki dynamic:	31185.2wyniki greedy:	31185.2	97000
+0.00478416	0.000323053	wyniki dynamic:	12896.6wyniki greedy:	12862.9	1000
+0.0233117	0.00237276	wyniki dynamic:	36576.5wyniki greedy:	36554.9	9000
+0.0416202	0.0043344	wyniki dynamic:	49637.9wyniki greedy:	49633.5	17000
+0.0605157	0.00669615	wyniki dynamic:	58863.2wyniki greedy:	58857.7	25000
+0.0796756	0.00920916	wyniki dynamic:	66897.9wyniki greedy:	66894.3	33000
+0.0987594	0.0121067	wyniki dynamic:	73480.3wyniki greedy:	73473.9	41000
+0.117999	0.014726	wyniki dynamic:	80074.4wyniki greedy:	80073.3	49000
+0.137716	0.018109	wyniki dynamic:	83962.9wyniki greedy:	83961.3	57000
+0.15649	0.0204965	wyniki dynamic:	89288wyniki greedy:	89286.2	65000
+0.175554	0.022872	wyniki dynamic:	95025wyniki greedy:	95023.9	73000
+0.194962	0.0256152	wyniki dynamic:	97352.8wyniki greedy:	97351.3	81000
+0.214618	0.0289154	wyniki dynamic:	101621wyniki greedy:	101620	89000
+0.233441	0.0307251	wyniki dynamic:	106160wyniki greedy:	106160	97000
+0.000590847	0.000309437	wyniki dynamic:	2111.93wyniki greedy:	2108.07	1000
+0.00426416	0.00240412	wyniki dynamic:	5051.4wyniki greedy:	5051.33	9000
+0.00751425	0.00444127	wyniki dynamic:	6248.47wyniki greedy:	6248.47	17000
+0.0112909	0.00662887	wyniki dynamic:	6744wyniki greedy:	6744	25000
+0.0145008	0.00900781	wyniki dynamic:	7049wyniki greedy:	7049	33000
+0.0171314	0.0111858	wyniki dynamic:	7228wyniki greedy:	7228	41000
+0.0197815	0.0137057	wyniki dynamic:	7365.47wyniki greedy:	7365.47	49000
+0.0224482	0.0161509	wyniki dynamic:	7461wyniki greedy:	7461	57000
+0.0251663	0.0186818	wyniki dynamic:	7537.93wyniki greedy:	7537.93	65000
+0.0277831	0.0209572	wyniki dynamic:	7558.8wyniki greedy:	7558.8	73000
+0.030662	0.0246329	wyniki dynamic:	7619.93wyniki greedy:	7619.93	81000
+0.033623	0.0271196	wyniki dynamic:	7662.6wyniki greedy:	7662.6	89000
+0.0364274	0.0304195	wyniki dynamic:	7710.93wyniki greedy:	7710.93	97000
